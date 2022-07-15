@@ -1,5 +1,7 @@
 <template>
   <router-view/>
+  <div class="copyright">Copyright ©2022 横浜国立大学 大学祭実行委員会</div>
+    <a href="https://www.flaticon.com" title="icons attribution">Icons Attribution: Flaticon</a>
 </template>
 
 <style>
@@ -22,5 +24,9 @@ nav a {
 
 nav a.router-link-exact-active {
   color: #42b983;
+}
+
+.copyright{
+  margin-top: 2rem;
 }
 </style>
