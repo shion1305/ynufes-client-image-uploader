@@ -127,8 +127,8 @@ const imgStatus = function (): number {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 2rem;
-  height: 3rem;
+  font-size: 1.7rem;
+  height: 5rem;
 
   img {
     height: 3rem;
